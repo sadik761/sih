@@ -1,0 +1,6 @@
+{
+  "name": "Jharkhand Samadhan Portal",
+  "description": "Civic Innovation & Incubation Desk crowdsourcing societal challenges for R&D Hackathons and University Incubation Labs under Jharkhand Higher & Technical Education.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
